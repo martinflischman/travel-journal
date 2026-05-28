@@ -7,3 +7,7 @@
   color-scheme: light;
   --color-primary: #f55a5a;
 }
+
+body {
+  font-family: "Inter", sans-serif;
+}
