@@ -13,7 +13,7 @@ export default function Entry() {
         <div className="flex items-center gap-3 mb-2">
           <div className="flex items-center">
             <img
-              className="w-[10px] mr-1.5"
+              className="w-2.5 mr-1.5"
               src={locationPin}
               alt="location pin icon"
             />
